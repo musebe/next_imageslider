@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "cloudinary": "^1.25.2",
+    "cloudinary-react": "^1.7.0",
     "next": "10.2.3",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "videoshow": "^0.1.12"
   }
 }
